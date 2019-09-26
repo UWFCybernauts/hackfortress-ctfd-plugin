@@ -1,0 +1,10 @@
+*
+
+!**/*.py
+!**/*.md
+!Makefile
+!requirements.txt
+!.gitignore
+!check-deps.sh
+
+*_pb2*
