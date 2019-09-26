@@ -12,6 +12,9 @@ to libstdc++, parrellization in SourceMod/TF2, and reconfiguring of entire libra
 compatible compile targets enforced by SourceMod/TF2. This method of implementation allows
 any method of retrieving scoring data to be used on the SourceMod/TF2 side so long as they use gRPC.
 
+### Dependencies
+Be sure to install the dependencies... `sudo pip install -r requirements.txt`
+
 ### Build instructions
 I mean it's python, but use the Makefile to generate the gRPC source components using `make`
 
